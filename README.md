@@ -5,4 +5,4 @@
 ![](Figure_3.png)
 ![](Figure_4.png)
 ![](Figure_5.png)
-![](Figure_6.png)
+![](result.png)
