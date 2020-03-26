@@ -211,8 +211,8 @@ model_m.compile(loss='categorical_crossentropy',
                 optimizer='adam', metrics=['accuracy'])
 
 # Hyper-parameters
-BATCH_SIZE = 32
-EPOCHS = 2
+BATCH_SIZE = 256
+EPOCHS = 50
 
 # Enable validation to use ModelCheckpoint and EarlyStopping callbacks.
 history = model_m.fit(x_train,
